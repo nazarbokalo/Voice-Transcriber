@@ -37,17 +37,18 @@ cd "C:\Users\YourName\Desktop"
 mkdir my-projects
 cd my-projects
 git clone https://github.com/nazarbokalo/Voice-Transcriber
----
-
+```
 
 ### 2. Configure environment variables
 ```bash
 SPRING_DATA_MONGODB_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
+```
 
 ### 3. Build the project
 ```bash
 ./gradlew build
+```
 
 ### 4. Run the application
 Backend will start at: http://localhost:8080
