@@ -37,6 +37,7 @@ cd "C:\Users\YourName\Desktop"
 mkdir my-projects
 cd my-projects
 git clone https://github.com/nazarbokalo/Voice-Transcriber
+---
 
 
 ### 2. Configure environment variables
