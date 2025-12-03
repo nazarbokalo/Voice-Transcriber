@@ -33,7 +33,6 @@ It can be used as a standalone REST API or together with the Front-End project.
 1. Copy the repository URL from GitHub:  
 2. Open your terminal (Git Bash, PowerShell, CMD, or VS Code Terminal).  
 3. Navigate to the folder where you want to store the project:  
-```bash
 cd "C:\Users\YourName\Desktop"
 mkdir my-projects
 cd my-projects
